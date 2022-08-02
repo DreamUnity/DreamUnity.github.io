@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>丁一的博客</title>
   
-  
+  <subtitle>Dream‘s Blogs</subtitle>
   <link href="http://dreamunity.github.io/atom.xml" rel="self"/>
   
   <link href="http://dreamunity.github.io/"/>
@@ -10,7 +10,7 @@
   <id>http://dreamunity.github.io/</id>
   
   <author>
-    <name>Dingyi</name>
+    <name>丁一</name>
     
   </author>
   
