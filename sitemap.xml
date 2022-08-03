@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://dingyidreams.com/contact/index.html</loc>
+    
+    <lastmod>2022-08-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dingyidreams.com/2022/07/29/hello-world/</loc>
+    
+    <lastmod>2022-08-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://dingyidreams.com/categories/index.html</loc>
     
     <lastmod>2022-07-29</lastmod>
@@ -30,24 +48,6 @@
   
   <url>
     <loc>https://dingyidreams.com/about/index.html</loc>
-    
-    <lastmod>2022-07-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dingyidreams.com/contact/index.html</loc>
-    
-    <lastmod>2022-07-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dingyidreams.com/2022/07/29/hello-world/</loc>
     
     <lastmod>2022-07-29</lastmod>
     
