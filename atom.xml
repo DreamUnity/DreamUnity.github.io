@@ -3,11 +3,11 @@
   <title>丁一的博客</title>
   
   <subtitle>Dream‘s Blogs</subtitle>
-  <link href="http://dreamunity.github.io/atom.xml" rel="self"/>
+  <link href="https://dingyidreams.com/atom.xml" rel="self"/>
   
-  <link href="http://dreamunity.github.io/"/>
+  <link href="https://dingyidreams.com/"/>
   <updated>2022-07-29T03:21:22.436Z</updated>
-  <id>http://dreamunity.github.io/</id>
+  <id>https://dingyidreams.com/</id>
   
   <author>
     <name>丁一</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://dreamunity.github.io/2022/07/29/hello-world/"/>
-    <id>http://dreamunity.github.io/2022/07/29/hello-world/</id>
+    <link href="https://dingyidreams.com/2022/07/29/hello-world/"/>
+    <id>https://dingyidreams.com/2022/07/29/hello-world/</id>
     <published>2022-07-29T03:21:22.436Z</published>
     <updated>2022-07-29T03:21:22.436Z</updated>
     
