@@ -6,7 +6,7 @@
   <link href="https://dingyidreams.com/atom.xml" rel="self"/>
   
   <link href="https://dingyidreams.com/"/>
-  <updated>2022-08-03T07:12:08.740Z</updated>
+  <updated>2022-08-04T11:25:26.540Z</updated>
   <id>https://dingyidreams.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="https://dingyidreams.com/2022/08/03/mysql-shu-ju-ye-b-shu-suo-yin/"/>
-    <id>https://dingyidreams.com/2022/08/03/mysql-shu-ju-ye-b-shu-suo-yin/</id>
-    <published>2022-08-03T06:41:56.851Z</published>
-    <updated>2022-08-03T07:12:08.740Z</updated>
+    <title>test</title>
+    <link href="https://dingyidreams.com/2022/08/04/mysql-shu-ju-ye-b-shu-suo-yin/"/>
+    <id>https://dingyidreams.com/2022/08/04/mysql-shu-ju-ye-b-shu-suo-yin/</id>
+    <published>2022-08-04T11:24:57.000Z</published>
+    <updated>2022-08-04T11:25:26.540Z</updated>
     
     
       
@@ -34,27 +34,10 @@
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://dingyidreams.com/2022/07/29/hello-world/"/>
-    <id>https://dingyidreams.com/2022/07/29/hello-world/</id>
-    <published>2022-07-29T03:21:22.436Z</published>
-    <updated>2022-08-03T02:19:28.357Z</updated>
+    <category term="MySql" scheme="https://dingyidreams.com/categories/MySql/"/>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
-        
-      
-    
-    
-    
+    <category term="Mysql" scheme="https://dingyidreams.com/tags/Mysql/"/>
     
   </entry>
   

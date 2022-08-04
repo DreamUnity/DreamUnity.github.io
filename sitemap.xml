@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://dingyidreams.com/2022/08/03/mysql-shu-ju-ye-b-shu-suo-yin/</loc>
+    <loc>https://dingyidreams.com/2022/08/04/mysql-shu-ju-ye-b-shu-suo-yin/</loc>
     
-    <lastmod>2022-08-03</lastmod>
+    <lastmod>2022-08-04</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -12,15 +12,6 @@
   
   <url>
     <loc>https://dingyidreams.com/contact/index.html</loc>
-    
-    <lastmod>2022-08-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dingyidreams.com/2022/07/29/hello-world/</loc>
     
     <lastmod>2022-08-03</lastmod>
     
@@ -67,12 +58,26 @@
 
   <url>
     <loc>https://dingyidreams.com/</loc>
-    <lastmod>2022-08-03</lastmod>
+    <lastmod>2022-08-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
+  <url>
+    <loc>https://dingyidreams.com/tags/Mysql/</loc>
+    <lastmod>2022-08-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://dingyidreams.com/categories/MySql/</loc>
+    <lastmod>2022-08-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
