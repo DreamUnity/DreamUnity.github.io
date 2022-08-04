@@ -8,7 +8,7 @@ https://dingyidreams.com/friends/index.html
 https://dingyidreams.com/tags/index.html
 https://dingyidreams.com/about/index.html
 https://dingyidreams.com/
-https://dingyidreams.com/tags/Mysql/
 https://dingyidreams.com/tags/LeetCode/
-https://dingyidreams.com/categories/MySql/
+https://dingyidreams.com/tags/Mysql/
 https://dingyidreams.com/categories/%E7%AE%97%E6%B3%95/
+https://dingyidreams.com/categories/MySql/
