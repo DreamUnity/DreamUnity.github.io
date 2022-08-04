@@ -6,7 +6,7 @@
   <link href="https://dingyidreams.com/atom.xml" rel="self"/>
   
   <link href="https://dingyidreams.com/"/>
-  <updated>2022-08-04T11:28:47.199Z</updated>
+  <updated>2022-08-04T11:30:50.376Z</updated>
   <id>https://dingyidreams.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://dingyidreams.com/2022/08/04/mysql-shu-ju-ye-b-shu-suo-yin/"/>
     <id>https://dingyidreams.com/2022/08/04/mysql-shu-ju-ye-b-shu-suo-yin/</id>
     <published>2022-08-04T11:24:57.000Z</published>
-    <updated>2022-08-04T11:28:47.199Z</updated>
+    <updated>2022-08-04T11:30:50.376Z</updated>
     
     
       
@@ -38,6 +38,27 @@
     
     
     <category term="Mysql" scheme="https://dingyidreams.com/tags/Mysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://dingyidreams.com/2022/07/29/hello-world/"/>
+    <id>https://dingyidreams.com/2022/07/29/hello-world/</id>
+    <published>2022-07-29T03:21:22.436Z</published>
+    <updated>2022-08-03T02:19:28.357Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
     
   </entry>
   
