@@ -1,3 +1,15 @@
+https://dingyidreams.com/2021/10/29/java-chang-yong-lei/
+https://dingyidreams.com/2021/11/11/java-fan-she/
+https://dingyidreams.com/2021/11/03/java-ji-he/
+https://dingyidreams.com/2021/11/10/java-jdk8-xin-te-xing/
+https://dingyidreams.com/2021/11/06/java-io-liu/
+https://dingyidreams.com/2021/10/27/java-ji-chu-jie-duan-xu-yao-zhu-yi-de-zhi-shi-dian/
+https://dingyidreams.com/2021/10/26/java-ji-chu-zhi-shi-hui-gu/
+https://dingyidreams.com/2021/10/28/java-duo-xian-cheng/
+https://dingyidreams.com/2021/11/01/java-mei-ju-lei-yu-zhu-jie/
+https://dingyidreams.com/2021/11/05/java-fan-xing/
+https://dingyidreams.com/2022/09/14/gao-xiang-di-12-zhang-xiang-mu-cai-gou-guan-li/
+https://dingyidreams.com/2021/09/20/pandas-2-fang-wen-he-shan-chu-yuan-su/
 https://dingyidreams.com/2022/08/30/gao-xiang-di-8-zhang-xiang-mu-zhi-liang-guan-li/
 https://dingyidreams.com/2021/09/27/matplotlib-he-seaborn-bing-tu-zhi-fang-tu/
 https://dingyidreams.com/2021/09/27/matplotlib-he-seaborn-chi-san-shu-ju-de-tu-biao-xuan-ze-yu-yi-xie-shi-yong-ji-qiao/
@@ -9,10 +21,9 @@ https://dingyidreams.com/2021/09/21/pandas-7-shu-ju-jia-zai/
 https://dingyidreams.com/2021/09/27/matplotlib-he-seaborn-tiao-xing-tu/
 https://dingyidreams.com/2021/09/21/pandas-5-fang-wen-yuan-su/
 https://dingyidreams.com/2021/09/21/pandas-6-chu-li-nan-de-si-lu/
-https://dingyidreams.com/2021/09/20/pandas-2-fang-wen-he-shan-chu-yuan-su/
-https://dingyidreams.com/2021/09/21/pandas-1-pandas-jian-jie-ji-chuang-jian/
 https://dingyidreams.com/2021/09/17/numpy-4-bu-er-xing-suo-yin-ji-he-yun-suan-he-pai-xu/
 https://dingyidreams.com/2021/09/17/numpy-5-suan-zhu-yun-suan-he-guang-bo/
+https://dingyidreams.com/2021/09/21/pandas-1-pandas-jian-jie-ji-chuang-jian/
 https://dingyidreams.com/2021/09/16/numpy-1-numpy-de-jie-shao-ji-chuang-jian/
 https://dingyidreams.com/2021/09/16/numpy-2-fang-wen-he-shan-chu-ndarray-zhong-de-yuan-su-ji-xiang-qi-zhong-cha-ru-yuan-su/
 https://dingyidreams.com/2021/09/17/numpy-3-ndarry-qie-pian/
@@ -29,7 +40,6 @@ https://dingyidreams.com/2022/08/27/gao-xiang-di-6-zhang-xiang-mu-jin-du-guan-li
 https://dingyidreams.com/2022/09/05/gao-xiang-di-9-zhang-xiang-mu-ren-li-zi-yuan-guan-li/
 https://dingyidreams.com/2022/08/23/gao-xiang-di-3-zhang-xiang-mu-li-xiang-guan-li/
 https://dingyidreams.com/2022/09/07/gao-xiang-di-10-zhang-xiang-mu-gou-tong-guan-li/
-https://dingyidreams.com/2022/09/14/gao-xiang-di-12-zhang-xiang-mu-cai-gou-guan-li/
 https://dingyidreams.com/2022/09/14/gao-xiang-di-11-zhang-xiang-mu-feng-xian-guan-li/
 https://dingyidreams.com/2022/08/04/leetcode-shua-ti-bi-ji-di-1-zhou/
 https://dingyidreams.com/2022/08/04/mysql-shu-ju-ye-b-shu-suo-yin/
@@ -50,6 +60,7 @@ https://dingyidreams.com/tags/numpy/
 https://dingyidreams.com/tags/pandas/
 https://dingyidreams.com/tags/%E9%AB%98%E7%BA%A7%E8%BD%AF%E8%80%83/
 https://dingyidreams.com/tags/%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E5%B8%88/
+https://dingyidreams.com/categories/JAVA%E5%9F%BA%E7%A1%80/
 https://dingyidreams.com/categories/%E7%AE%97%E6%B3%95/
 https://dingyidreams.com/categories/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/
 https://dingyidreams.com/categories/MySql/
