@@ -6,7 +6,7 @@
   <link href="https://dingyidreams.com/atom.xml" rel="self"/>
   
   <link href="https://dingyidreams.com/"/>
-  <updated>2022-09-18T11:21:12.936Z</updated>
+  <updated>2022-11-04T02:46:01.531Z</updated>
   <id>https://dingyidreams.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>面向农作物叶片病害鲁棒性识别的深度卷积神经网络研究</title>
+    <link href="https://dingyidreams.com/2022/11/04/mian-xiang-nong-zuo-wu-xie-pian-bing-hai-lu-bang-xing-shi-bie-de-shen-du-juan-ji-shen-jing-wang-luo-yan-jiu/"/>
+    <id>https://dingyidreams.com/2022/11/04/mian-xiang-nong-zuo-wu-xie-pian-bing-hai-lu-bang-xing-shi-bie-de-shen-du-juan-ji-shen-jing-wang-luo-yan-jiu/</id>
+    <published>2022-11-04T02:35:40.000Z</published>
+    <updated>2022-11-04T02:46:01.531Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;创新点：&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#创新点：&quot;&gt;&lt;/a&gt;创新点：&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li class=&quot;lvl-3&quot;&gt;针对实际环境识别精度不高的问题，提出使用一种高阶残差卷积神经网络方法(High-Order</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>高项_第18-20章组织级项目管理&amp;流程管理&amp;项目集管理</title>
@@ -556,36 +579,6 @@
     
     
     <category term="LeetCode" scheme="https://dingyidreams.com/tags/LeetCode/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MySQL_数据页、b+树索引</title>
-    <link href="https://dingyidreams.com/2022/08/04/mysql-shu-ju-ye-b-shu-suo-yin/"/>
-    <id>https://dingyidreams.com/2022/08/04/mysql-shu-ju-ye-b-shu-suo-yin/</id>
-    <published>2022-08-04T11:24:57.000Z</published>
-    <updated>2022-08-27T13:19:47.458Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1&gt;InnoDB记录存储结构&lt;/h1&gt;
-&lt;blockquote&gt;
-&lt;p&gt;除InnoDB以外的常用引擎,还有MyISAM&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;页是磁盘和内存中交互的基本单位,也是存储空间的基本单位,默认大小为16kb&lt;/p&gt;
-&lt;h2</summary>
-        
-      
-    
-    
-    
-    <category term="MySql" scheme="https://dingyidreams.com/categories/MySql/"/>
-    
-    
-    <category term="Mysql" scheme="https://dingyidreams.com/tags/Mysql/"/>
     
   </entry>
   
