@@ -6,7 +6,7 @@
   <link href="https://dingyidreams.com/atom.xml" rel="self"/>
   
   <link href="https://dingyidreams.com/"/>
-  <updated>2022-11-04T02:46:01.531Z</updated>
+  <updated>2022-11-04T02:55:14.011Z</updated>
   <id>https://dingyidreams.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://dingyidreams.com/2022/11/04/mian-xiang-nong-zuo-wu-xie-pian-bing-hai-lu-bang-xing-shi-bie-de-shen-du-juan-ji-shen-jing-wang-luo-yan-jiu/"/>
     <id>https://dingyidreams.com/2022/11/04/mian-xiang-nong-zuo-wu-xie-pian-bing-hai-lu-bang-xing-shi-bie-de-shen-du-juan-ji-shen-jing-wang-luo-yan-jiu/</id>
     <published>2022-11-04T02:35:40.000Z</published>
-    <updated>2022-11-04T02:46:01.531Z</updated>
+    <updated>2022-11-04T02:55:14.011Z</updated>
     
     
       
@@ -36,6 +36,14 @@
     
     
     
+    <category term="论文精度" scheme="https://dingyidreams.com/categories/%E8%AE%BA%E6%96%87%E7%B2%BE%E5%BA%A6/"/>
+    
+    
+    <category term="博士论文" scheme="https://dingyidreams.com/tags/%E5%8D%9A%E5%A3%AB%E8%AE%BA%E6%96%87/"/>
+    
+    <category term="计算机视觉" scheme="https://dingyidreams.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/"/>
+    
+    <category term="智慧农业" scheme="https://dingyidreams.com/tags/%E6%99%BA%E6%85%A7%E5%86%9C%E4%B8%9A/"/>
     
   </entry>
   
@@ -339,7 +347,7 @@
         
     <summary type="html">&lt;h1&gt;第六章项目进度管理&lt;/h1&gt;
 &lt;p&gt;上午考察3分，必考网络图之类的，下午必考计算题，必需熟练掌握。记忆点不是很多，重在理解，都应该是送分题&lt;/p&gt;
-&lt;h2 id=&quot;ITO-5&quot;&gt;&lt;a class=&quot;header-anchor&quot;</summary>
+&lt;h2 id=&quot;ITO&quot;&gt;&lt;a class=&quot;header-anchor&quot;</summary>
         
       
     
