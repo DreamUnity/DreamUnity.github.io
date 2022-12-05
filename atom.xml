@@ -6,7 +6,7 @@
   <link href="https://dingyidreams.com/atom.xml" rel="self"/>
   
   <link href="https://dingyidreams.com/"/>
-  <updated>2022-11-28T11:26:00.461Z</updated>
+  <updated>2022-12-05T02:23:27.853Z</updated>
   <id>https://dingyidreams.com/</id>
   
   <author>
@@ -15,6 +15,39 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>论文精读-Relational Triple Extraction:One Step is Enough</title>
+    <link href="https://dingyidreams.com/2022/12/04/lun-wen-jing-du-relational-triple-extraction-one-step-is-enough/"/>
+    <id>https://dingyidreams.com/2022/12/04/lun-wen-jing-du-relational-triple-extraction-one-step-is-enough/</id>
+    <published>2022-12-04T12:15:48.000Z</published>
+    <updated>2022-12-05T02:23:27.853Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;2022.5.11 ｜IJCAI-2022｜华中科技大学｜2022年SOTA&lt;/p&gt;
+&lt;h1&gt;Relational Triple Extraction: One Step is Enough&lt;/h1&gt;
+&lt;p&gt;&lt;mark&gt;过去的步骤：&lt;/mark&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li</summary>
+        
+      
+    
+    
+    
+    <category term="论文精读" scheme="https://dingyidreams.com/categories/%E8%AE%BA%E6%96%87%E7%B2%BE%E8%AF%BB/"/>
+    
+    
+    <category term="自然语言处理" scheme="https://dingyidreams.com/tags/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/"/>
+    
+    <category term="顶会论文" scheme="https://dingyidreams.com/tags/%E9%A1%B6%E4%BC%9A%E8%AE%BA%E6%96%87/"/>
+    
+    <category term="三元组抽取" scheme="https://dingyidreams.com/tags/%E4%B8%89%E5%85%83%E7%BB%84%E6%8A%BD%E5%8F%96/"/>
+    
+  </entry>
   
   <entry>
     <title>论文精读-面向文本数据的关系抽取关键技术研究</title>
@@ -565,33 +598,6 @@
     
     
     <category term="Mysql" scheme="https://dingyidreams.com/tags/Mysql/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>LeetCode刷题笔记_第二周</title>
-    <link href="https://dingyidreams.com/2022/08/12/leetcode-shua-ti-bi-ji-di-2-zhou/"/>
-    <id>https://dingyidreams.com/2022/08/12/leetcode-shua-ti-bi-ji-di-2-zhou/</id>
-    <published>2022-08-12T06:37:05.000Z</published>
-    <updated>2022-08-27T13:04:18.628Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1&gt;二叉树搜索一条边/整个树的写法&lt;/h1&gt;
-&lt;p&gt;搜索一条边的写法:&lt;/p&gt;
-&lt;pre class=&quot;line-numbers language-java&quot; data-language=&quot;java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span</summary>
-        
-      
-    
-    
-    
-    <category term="算法" scheme="https://dingyidreams.com/categories/%E7%AE%97%E6%B3%95/"/>
-    
-    
-    <category term="LeetCode" scheme="https://dingyidreams.com/tags/LeetCode/"/>
     
   </entry>
   
