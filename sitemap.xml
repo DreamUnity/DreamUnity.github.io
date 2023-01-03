@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://dingyidreams.com/2023/01/03/lun-wen-jing-du-prgc-a-novel-cascade-binary-tagging-framework-for-relational-triple-extraction/</loc>
+    
+    <lastmod>2023-01-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dingyidreams.com/2022/12/11/lun-wen-jing-du-tplinker-single-stage-joint-extraction-of-entities-and-relations-through-token-pair-linking/</loc>
+    
+    <lastmod>2023-01-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://dingyidreams.com/2022/12/04/lun-wen-jing-du-relational-triple-extraction-one-step-is-enough/</loc>
     
     <lastmod>2023-01-03</lastmod>
@@ -245,15 +263,6 @@
   </url>
   
   <url>
-    <loc>https://dingyidreams.com/2021/09/21/pandas-1-pandas-jian-jie-ji-chuang-jian/</loc>
-    
-    <lastmod>2022-09-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://dingyidreams.com/2021/09/17/numpy-5-suan-zhu-yun-suan-he-guang-bo/</loc>
     
     <lastmod>2022-09-20</lastmod>
@@ -263,7 +272,7 @@
   </url>
   
   <url>
-    <loc>https://dingyidreams.com/2021/09/16/numpy-1-numpy-de-jie-shao-ji-chuang-jian/</loc>
+    <loc>https://dingyidreams.com/2021/09/21/pandas-1-pandas-jian-jie-ji-chuang-jian/</loc>
     
     <lastmod>2022-09-20</lastmod>
     
@@ -273,6 +282,15 @@
   
   <url>
     <loc>https://dingyidreams.com/2021/09/16/numpy-2-fang-wen-he-shan-chu-ndarray-zhong-de-yuan-su-ji-xiang-qi-zhong-cha-ru-yuan-su/</loc>
+    
+    <lastmod>2022-09-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dingyidreams.com/2021/09/16/numpy-1-numpy-de-jie-shao-ji-chuang-jian/</loc>
     
     <lastmod>2022-09-20</lastmod>
     
@@ -557,7 +575,14 @@
   </url>
   
   <url>
-    <loc>https://dingyidreams.com/tags/%E5%8D%9A%E5%A3%AB%E8%AE%BA%E6%96%87/</loc>
+    <loc>https://dingyidreams.com/tags/%E9%A1%B6%E4%BC%9A%E8%AE%BA%E6%96%87/</loc>
+    <lastmod>2023-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://dingyidreams.com/tags/%E4%B8%89%E5%85%83%E7%BB%84%E6%8A%BD%E5%8F%96/</loc>
     <lastmod>2023-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -571,21 +596,21 @@
   </url>
   
   <url>
-    <loc>https://dingyidreams.com/tags/%E5%AE%9E%E4%BD%93%E5%85%B3%E7%B3%BB%E6%8A%BD%E5%8F%96/</loc>
+    <loc>https://dingyidreams.com/tags/%E5%8D%9A%E5%A3%AB%E8%AE%BA%E6%96%87/</loc>
     <lastmod>2023-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://dingyidreams.com/tags/%E9%A1%B6%E4%BC%9A%E8%AE%BA%E6%96%87/</loc>
+    <loc>https://dingyidreams.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/</loc>
     <lastmod>2023-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://dingyidreams.com/tags/%E4%B8%89%E5%85%83%E7%BB%84%E6%8A%BD%E5%8F%96/</loc>
+    <loc>https://dingyidreams.com/tags/%E6%99%BA%E6%85%A7%E5%86%9C%E4%B8%9A/</loc>
     <lastmod>2023-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -606,14 +631,7 @@
   </url>
   
   <url>
-    <loc>https://dingyidreams.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/</loc>
-    <lastmod>2023-01-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://dingyidreams.com/tags/%E6%99%BA%E6%85%A7%E5%86%9C%E4%B8%9A/</loc>
+    <loc>https://dingyidreams.com/tags/%E5%AE%9E%E4%BD%93%E5%85%B3%E7%B3%BB%E6%8A%BD%E5%8F%96/</loc>
     <lastmod>2023-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
