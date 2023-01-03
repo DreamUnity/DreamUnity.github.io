@@ -254,15 +254,6 @@
   </url>
   
   <url>
-    <loc>https://dingyidreams.com/2021/09/17/numpy-5-suan-zhu-yun-suan-he-guang-bo/</loc>
-    
-    <lastmod>2022-09-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://dingyidreams.com/2021/09/17/numpy-4-bu-er-xing-suo-yin-ji-he-yun-suan-he-pai-xu/</loc>
     
     <lastmod>2022-09-20</lastmod>
@@ -281,7 +272,7 @@
   </url>
   
   <url>
-    <loc>https://dingyidreams.com/2021/09/16/numpy-1-numpy-de-jie-shao-ji-chuang-jian/</loc>
+    <loc>https://dingyidreams.com/2021/09/17/numpy-5-suan-zhu-yun-suan-he-guang-bo/</loc>
     
     <lastmod>2022-09-20</lastmod>
     
@@ -291,6 +282,15 @@
   
   <url>
     <loc>https://dingyidreams.com/2021/09/16/numpy-2-fang-wen-he-shan-chu-ndarray-zhong-de-yuan-su-ji-xiang-qi-zhong-cha-ru-yuan-su/</loc>
+    
+    <lastmod>2022-09-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dingyidreams.com/2021/09/16/numpy-1-numpy-de-jie-shao-ji-chuang-jian/</loc>
     
     <lastmod>2022-09-20</lastmod>
     
