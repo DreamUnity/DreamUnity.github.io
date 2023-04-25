@@ -6,7 +6,7 @@
   <link href="https://dingyidreams.com/atom.xml" rel="self"/>
   
   <link href="https://dingyidreams.com/"/>
-  <updated>2023-04-25T10:29:57.176Z</updated>
+  <updated>2023-04-25T11:00:03.851Z</updated>
   <id>https://dingyidreams.com/</id>
   
   <author>
@@ -17,11 +17,41 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>实体关系抽取-Packed Levitated Marker for Entity and Relation Extraction</title>
+    <link href="https://dingyidreams.com/2023/04/25/shi-ti-guan-xi-chou-qu-packed-levitated-marker-for-entity-and-relation-extraction/"/>
+    <id>https://dingyidreams.com/2023/04/25/shi-ti-guan-xi-chou-qu-packed-levitated-marker-for-entity-and-relation-extraction/</id>
+    <published>2023-04-25T01:13:21.000Z</published>
+    <updated>2023-04-25T11:00:03.851Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;Packed Levitated Marker for Entity and Relation Extraction&lt;/h1&gt;
+&lt;p&gt;Tsinghua University|ACL 2022|2022.4.21|[原文链接](Packed Levitated</summary>
+        
+      
+    
+    
+    
+    <category term="实体关系抽取" scheme="https://dingyidreams.com/categories/%E5%AE%9E%E4%BD%93%E5%85%B3%E7%B3%BB%E6%8A%BD%E5%8F%96/"/>
+    
+    
+    <category term="顶会论文" scheme="https://dingyidreams.com/tags/%E9%A1%B6%E4%BC%9A%E8%AE%BA%E6%96%87/"/>
+    
+    <category term="三元组抽取" scheme="https://dingyidreams.com/tags/%E4%B8%89%E5%85%83%E7%BB%84%E6%8A%BD%E5%8F%96/"/>
+    
+    <category term="自然语言处理" scheme="https://dingyidreams.com/tags/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
     <title>计算机网络基础-TCP/IP/HTTP</title>
     <link href="https://dingyidreams.com/2023/04/21/ji-suan-ji-wang-luo-ji-chu-tcp-ip-http/"/>
     <id>https://dingyidreams.com/2023/04/21/ji-suan-ji-wang-luo-ji-chu-tcp-ip-http/</id>
     <published>2023-04-21T08:13:48.000Z</published>
-    <updated>2023-04-25T10:29:57.176Z</updated>
+    <updated>2023-04-25T10:52:03.238Z</updated>
     
     
       
@@ -35,6 +65,14 @@
     
     
     
+    <category term="计算机基础" scheme="https://dingyidreams.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
+    
+    
+    <category term="TCP" scheme="https://dingyidreams.com/tags/TCP/"/>
+    
+    <category term="HTTP" scheme="https://dingyidreams.com/tags/HTTP/"/>
+    
+    <category term="IP" scheme="https://dingyidreams.com/tags/IP/"/>
     
   </entry>
   
@@ -558,34 +596,6 @@
         
     <summary type="html">&lt;h1&gt;第八章项目质量管理&lt;/h1&gt;
 &lt;p&gt;上午、案例分析、论文写作都会考察。质量管理&lt;mark&gt;非常重要&lt;/mark&gt;，上午每年一般考3分左右，很喜欢考这一章的&lt;mark&gt;工具和技术&lt;/mark&gt;，另外，官方教材里的这一章的知识点比较欠缺，一定多看下面总结的内容进行补充。&lt;br</summary>
-        
-      
-    
-    
-    
-    <category term="高级软考" scheme="https://dingyidreams.com/categories/%E9%AB%98%E7%BA%A7%E8%BD%AF%E8%80%83/"/>
-    
-    
-    <category term="高级软考" scheme="https://dingyidreams.com/tags/%E9%AB%98%E7%BA%A7%E8%BD%AF%E8%80%83/"/>
-    
-    <category term="信息系统项目管理师" scheme="https://dingyidreams.com/tags/%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E5%B8%88/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>高项_第七章项目成本管理</title>
-    <link href="https://dingyidreams.com/2022/08/27/gao-xiang-di-7-zhang-xiang-mu-cheng-ben-guan-li/"/>
-    <id>https://dingyidreams.com/2022/08/27/gao-xiang-di-7-zhang-xiang-mu-cheng-ben-guan-li/</id>
-    <published>2022-08-27T12:33:59.000Z</published>
-    <updated>2023-04-21T07:25:28.008Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1&gt;第七章项目成本管理&lt;/h1&gt;
-&lt;p&gt;上午、案例分析、论文写作都会进行考察。项目成本管理一本上午考察3分，非常重要，要是成本控制的不好，直接关乎项目的质量，因此成本管理次张杰非常重要，案例分析可能会出案例分析计算，主要集中在&lt;mark&gt;挣值、预测技术计算等方面&lt;/mark&gt;</summary>
         
       
     
