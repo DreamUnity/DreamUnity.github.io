@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://dingyidreams.com/2023/04/25/shi-ti-guan-xi-chou-qu-packed-levitated-marker-for-entity-and-relation-extraction/</loc>
+    
+    <lastmod>2023-04-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://dingyidreams.com/2023/04/21/ji-suan-ji-wang-luo-ji-chu-tcp-ip-http/</loc>
     
     <lastmod>2023-04-22</lastmod>
@@ -599,7 +608,7 @@
   </url>
   
   <url>
-    <loc>https://dingyidreams.com/tags/GC/</loc>
+    <loc>https://dingyidreams.com/tags/Matplotlib-Seaborn/</loc>
     <lastmod>2023-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -613,7 +622,7 @@
   </url>
   
   <url>
-    <loc>https://dingyidreams.com/tags/Matplotlib-Seaborn/</loc>
+    <loc>https://dingyidreams.com/tags/GC/</loc>
     <lastmod>2023-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -683,20 +692,6 @@
   </url>
   
   <url>
-    <loc>https://dingyidreams.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/</loc>
-    <lastmod>2023-04-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://dingyidreams.com/tags/%E6%99%BA%E6%85%A7%E5%86%9C%E4%B8%9A/</loc>
-    <lastmod>2023-04-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://dingyidreams.com/tags/%E9%AB%98%E7%BA%A7%E8%BD%AF%E8%80%83/</loc>
     <lastmod>2023-04-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -705,6 +700,20 @@
   
   <url>
     <loc>https://dingyidreams.com/tags/%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E5%B8%88/</loc>
+    <lastmod>2023-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://dingyidreams.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/</loc>
+    <lastmod>2023-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://dingyidreams.com/tags/%E6%99%BA%E6%85%A7%E5%86%9C%E4%B8%9A/</loc>
     <lastmod>2023-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -727,14 +736,14 @@
   </url>
   
   <url>
-    <loc>https://dingyidreams.com/categories/%E7%AE%97%E6%B3%95/</loc>
+    <loc>https://dingyidreams.com/categories/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/</loc>
     <lastmod>2023-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://dingyidreams.com/categories/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/</loc>
+    <loc>https://dingyidreams.com/categories/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2023-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -755,14 +764,14 @@
   </url>
   
   <url>
-    <loc>https://dingyidreams.com/categories/%E8%AE%BA%E6%96%87%E7%B2%BE%E8%AF%BB/</loc>
+    <loc>https://dingyidreams.com/categories/%E9%AB%98%E7%BA%A7%E8%BD%AF%E8%80%83/</loc>
     <lastmod>2023-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://dingyidreams.com/categories/%E9%AB%98%E7%BA%A7%E8%BD%AF%E8%80%83/</loc>
+    <loc>https://dingyidreams.com/categories/%E8%AE%BA%E6%96%87%E7%B2%BE%E8%AF%BB/</loc>
     <lastmod>2023-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

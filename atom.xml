@@ -6,7 +6,7 @@
   <link href="https://dingyidreams.com/atom.xml" rel="self"/>
   
   <link href="https://dingyidreams.com/"/>
-  <updated>2023-04-22T01:01:44.174Z</updated>
+  <updated>2023-04-25T01:33:08.863Z</updated>
   <id>https://dingyidreams.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>实体关系抽取-Packed Levitated Marker for Entity and Relation Extraction</title>
+    <link href="https://dingyidreams.com/2023/04/25/shi-ti-guan-xi-chou-qu-packed-levitated-marker-for-entity-and-relation-extraction/"/>
+    <id>https://dingyidreams.com/2023/04/25/shi-ti-guan-xi-chou-qu-packed-levitated-marker-for-entity-and-relation-extraction/</id>
+    <published>2023-04-25T01:13:21.000Z</published>
+    <updated>2023-04-25T01:33:08.863Z</updated>
+    
+    
+    
+    
+    <category term="实体关系抽取" scheme="https://dingyidreams.com/categories/%E5%AE%9E%E4%BD%93%E5%85%B3%E7%B3%BB%E6%8A%BD%E5%8F%96/"/>
+    
+    
+    <category term="顶会论文" scheme="https://dingyidreams.com/tags/%E9%A1%B6%E4%BC%9A%E8%AE%BA%E6%96%87/"/>
+    
+    <category term="三元组抽取" scheme="https://dingyidreams.com/tags/%E4%B8%89%E5%85%83%E7%BB%84%E6%8A%BD%E5%8F%96/"/>
+    
+    <category term="自然语言处理" scheme="https://dingyidreams.com/tags/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/"/>
+    
+  </entry>
   
   <entry>
     <title>计算机网络基础-TCP/IP/HTTP</title>
@@ -29,7 +50,7 @@
         
         
     <summary type="html">&lt;p&gt;&lt;strong&gt;HTTP/TCP/IP&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;../../../../Library/Application Support/typora-user-images/image-20230421161432433.png&quot;</summary>
+&lt;img src=&quot;../../../../Library/Application Support/typora-user-images/image-20230421161432433.png&quot;</summary>
         
       
     
@@ -51,7 +72,8 @@
         
         
     <summary type="html">&lt;hr&gt;
-&lt;h1 id=&quot;Query-based-Instance-Discrimination-Network-for-Relational-Triple-Extraction&quot;&gt;&lt;a</summary>
+&lt;h1&gt;Query-based Instance Discrimination Network for Relational Triple Extraction&lt;/h1&gt;
+&lt;p&gt;Zhejiang University, Tsinghua</summary>
         
       
     
@@ -81,7 +103,9 @@
         
         
     <summary type="html">&lt;p&gt;内存动态分配和垃圾收集技术是JAVA和C++之间最大的区别之一&lt;/p&gt;
-&lt;p&gt;垃圾收集（Garbage</summary>
+&lt;p&gt;垃圾收集（Garbage Collection，GC）只办三件事：&lt;/p&gt;
+&lt;ul class=&quot;lvl-0&quot;&gt;
+&lt;li</summary>
         
       
     
@@ -110,7 +134,9 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;Java内存区域与内存分配策略&quot;&gt;&lt;a href=&quot;#Java内存区域与内存分配策略&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h1&gt;Java内存区域与内存分配策略&lt;/h1&gt;
+&lt;p&gt;对于JAVA程序员，不像C++一样需要为每个new操作去写del/free代码，但出现内存泄漏和溢出问题时，排查纠正成为了一个难题，因此需要对这部分的知识进行深入学习。&lt;/p&gt;
+&lt;h2 id=&quot;运行时数据区域&quot;&gt;&lt;a</summary>
         
       
     
@@ -227,7 +253,10 @@
         
         
     <summary type="html">&lt;p&gt;2022.5.11 ｜IJCAI-2022｜华中科技大学｜2022年SOTA&lt;/p&gt;
-&lt;h1 id=&quot;Relational-Triple-Extraction-One-Step-is-Enough&quot;&gt;&lt;a</summary>
+&lt;h1&gt;Relational Triple Extraction: One Step is Enough&lt;/h1&gt;
+&lt;p&gt;&lt;mark&gt;过去的步骤：&lt;/mark&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li</summary>
         
       
     
@@ -256,7 +285,9 @@
       
         
         
-    <summary type="html">&lt;p&gt;电子科技大学</summary>
+    <summary type="html">&lt;p&gt;电子科技大学 2022.3.15博士论文&lt;/p&gt;
+&lt;ol&gt;
+&lt;li</summary>
         
       
     
@@ -285,8 +316,9 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;创新点：&quot;&gt;&lt;a href=&quot;#创新点：&quot; class=&quot;headerlink&quot; title=&quot;创新点：&quot;&gt;&lt;/a&gt;创新点：&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;针对实际环境识别精度不高的问题，提出使用一种高阶残差卷积神经网络方法(High-Order Residual</summary>
+    <summary type="html">&lt;h2 id=&quot;创新点：&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#创新点：&quot;&gt;&lt;/a&gt;创新点：&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li class=&quot;lvl-3&quot;&gt;针对实际环境识别精度不高的问题，提出使用一种高阶残差卷积神经网络方法(High-Order</summary>
         
       
     
@@ -315,7 +347,7 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;第十八章-组织级项目管理&quot;&gt;&lt;a href=&quot;#第十八章-组织级项目管理&quot; class=&quot;headerlink&quot; title=&quot;第十八章 组织级项目管理&quot;&gt;&lt;/a&gt;第十八章</summary>
+    <summary type="html">&lt;h1&gt;第十八章</summary>
         
       
     
@@ -342,7 +374,10 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;知识管理&quot;&gt;&lt;a href=&quot;#知识管理&quot; class=&quot;headerlink&quot; title=&quot;知识管理&quot;&gt;&lt;/a&gt;知识管理&lt;/h1&gt;&lt;h2 id=&quot;知识和知识管理的概念&quot;&gt;&lt;a href=&quot;#知识和知识管理的概念&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h1&gt;知识管理&lt;/h1&gt;
+&lt;h2 id=&quot;知识和知识管理的概念&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#知识和知识管理的概念&quot;&gt;&lt;/a&gt;知识和知识管理的概念&lt;/h2&gt;
+&lt;p&gt;分为两类：显性知识/隐性知识&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
         
       
     
@@ -369,7 +404,8 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;第十四章信息文档管理与配置管理&quot;&gt;&lt;a href=&quot;#第十四章信息文档管理与配置管理&quot; class=&quot;headerlink&quot; title=&quot;第十四章信息文档管理与配置管理&quot;&gt;&lt;/a&gt;第十四章信息文档管理与配置管理&lt;/h1&gt;&lt;h2 id=&quot;软件文档分为三类&quot;&gt;&lt;a</summary>
+    <summary type="html">&lt;h1&gt;第十四章信息文档管理与配置管理&lt;/h1&gt;
+&lt;h2 id=&quot;软件文档分为三类&quot;&gt;&lt;a class=&quot;header-anchor&quot;</summary>
         
       
     
@@ -396,7 +432,10 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;第十三章项目合同管理&quot;&gt;&lt;a href=&quot;#第十三章项目合同管理&quot; class=&quot;headerlink&quot; title=&quot;第十三章项目合同管理&quot;&gt;&lt;/a&gt;第十三章项目合同管理&lt;/h1&gt;&lt;h2 id=&quot;按项目范围划分&quot;&gt;&lt;a href=&quot;#按项目范围划分&quot;</summary>
+    <summary type="html">&lt;h1&gt;第十三章项目合同管理&lt;/h1&gt;
+&lt;h2 id=&quot;按项目范围划分&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#按项目范围划分&quot;&gt;&lt;/a&gt;按项目范围划分&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li</summary>
         
       
     
@@ -423,7 +462,8 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;第十二章-项目采购管理&quot;&gt;&lt;a href=&quot;#第十二章-项目采购管理&quot; class=&quot;headerlink&quot; title=&quot;第十二章 项目采购管理&quot;&gt;&lt;/a&gt;第十二章 项目采购管理&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
+    <summary type="html">&lt;h1&gt;第十二章 项目采购管理&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;https://img-blog.csdnimg.cn/f18e6610cc46422fa4f76e1dfd10c5f1.png&quot; alt=&quot;&quot;&gt;&lt;img</summary>
         
       
     
@@ -450,7 +490,9 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;第十一章-项目风险管理&quot;&gt;&lt;a href=&quot;#第十一章-项目风险管理&quot; class=&quot;headerlink&quot; title=&quot;第十一章 项目风险管理&quot;&gt;&lt;/a&gt;第十一章 项目风险管理&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
+    <summary type="html">&lt;h1&gt;第十一章 项目风险管理&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;https://img-blog.csdnimg.cn/332160adff0a4434a2af4c137f6c5508.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;项目风险管理概述&quot;&gt;&lt;a</summary>
         
       
     
@@ -477,7 +519,9 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;第十章-项目沟通管理&quot;&gt;&lt;a href=&quot;#第十章-项目沟通管理&quot; class=&quot;headerlink&quot; title=&quot;第十章 项目沟通管理&quot;&gt;&lt;/a&gt;第十章 项目沟通管理&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
+    <summary type="html">&lt;h1&gt;第十章 项目沟通管理&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;https://img-blog.csdnimg.cn/37fd813fdaef4806be7a252c652a070d.png&quot; alt=&quot;项目沟通管理ITO&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;沟通模型&quot;&gt;&lt;a</summary>
         
       
     
@@ -504,7 +548,9 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;第九章-项目人力资源管理&quot;&gt;&lt;a href=&quot;#第九章-项目人力资源管理&quot; class=&quot;headerlink&quot; title=&quot;第九章 项目人力资源管理&quot;&gt;&lt;/a&gt;第九章 项目人力资源管理&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
+    <summary type="html">&lt;h1&gt;第九章 项目人力资源管理&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;https://img-blog.csdnimg.cn/cce70b9f7d5545c0b326bb3334e5a31a.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;
+&lt;img</summary>
         
       
     
@@ -531,34 +577,8 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;第八章项目质量管理&quot;&gt;&lt;a href=&quot;#第八章项目质量管理&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="高级软考" scheme="https://dingyidreams.com/categories/%E9%AB%98%E7%BA%A7%E8%BD%AF%E8%80%83/"/>
-    
-    
-    <category term="高级软考" scheme="https://dingyidreams.com/tags/%E9%AB%98%E7%BA%A7%E8%BD%AF%E8%80%83/"/>
-    
-    <category term="信息系统项目管理师" scheme="https://dingyidreams.com/tags/%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E5%B8%88/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>高项_第七章项目成本管理</title>
-    <link href="https://dingyidreams.com/2022/08/27/gao-xiang-di-7-zhang-xiang-mu-cheng-ben-guan-li/"/>
-    <id>https://dingyidreams.com/2022/08/27/gao-xiang-di-7-zhang-xiang-mu-cheng-ben-guan-li/</id>
-    <published>2022-08-27T12:33:59.000Z</published>
-    <updated>2023-04-21T07:25:28.008Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;第七章项目成本管理&quot;&gt;&lt;a href=&quot;#第七章项目成本管理&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h1&gt;第八章项目质量管理&lt;/h1&gt;
+&lt;p&gt;上午、案例分析、论文写作都会考察。质量管理&lt;mark&gt;非常重要&lt;/mark&gt;，上午每年一般考3分左右，很喜欢考这一章的&lt;mark&gt;工具和技术&lt;/mark&gt;，另外，官方教材里的这一章的知识点比较欠缺，一定多看下面总结的内容进行补充。&lt;br</summary>
         
       
     
