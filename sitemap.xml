@@ -678,28 +678,14 @@
   </url>
   
   <url>
-    <loc>https://dingyidreams.com/tags/TCP/</loc>
-    <lastmod>2023-04-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://dingyidreams.com/tags/HTTP/</loc>
-    <lastmod>2023-04-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://dingyidreams.com/tags/IP/</loc>
-    <lastmod>2023-04-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://dingyidreams.com/tags/%E5%8D%9A%E5%A3%AB%E8%AE%BA%E6%96%87/</loc>
+    <lastmod>2023-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://dingyidreams.com/tags/%E5%AE%9E%E4%BD%93%E5%85%B3%E7%B3%BB%E6%8A%BD%E5%8F%96/</loc>
     <lastmod>2023-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -720,7 +706,21 @@
   </url>
   
   <url>
-    <loc>https://dingyidreams.com/tags/%E5%AE%9E%E4%BD%93%E5%85%B3%E7%B3%BB%E6%8A%BD%E5%8F%96/</loc>
+    <loc>https://dingyidreams.com/tags/TCP/</loc>
+    <lastmod>2023-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://dingyidreams.com/tags/HTTP/</loc>
+    <lastmod>2023-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://dingyidreams.com/tags/IP/</loc>
     <lastmod>2023-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -785,14 +785,14 @@
   </url>
   
   <url>
-    <loc>https://dingyidreams.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/</loc>
+    <loc>https://dingyidreams.com/categories/%E8%AE%BA%E6%96%87%E7%B2%BE%E8%AF%BB/</loc>
     <lastmod>2023-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://dingyidreams.com/categories/%E8%AE%BA%E6%96%87%E7%B2%BE%E8%AF%BB/</loc>
+    <loc>https://dingyidreams.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2023-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
