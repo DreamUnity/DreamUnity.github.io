@@ -6,7 +6,7 @@
   <link href="https://dingyidreams.com/atom.xml" rel="self"/>
   
   <link href="https://dingyidreams.com/"/>
-  <updated>2023-07-03T16:31:07.799Z</updated>
+  <updated>2023-07-11T13:01:07.807Z</updated>
   <id>https://dingyidreams.com/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>NLP实践-Dataloader</title>
+    <link href="https://dingyidreams.com/2023/07/10/nlp-shi-jian-dataloader/"/>
+    <id>https://dingyidreams.com/2023/07/10/nlp-shi-jian-dataloader/</id>
+    <published>2023-07-10T14:43:23.000Z</published>
+    <updated>2023-07-11T13:01:07.807Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;在构建Dataset数据集和Bert分词后，解析出了三元组的 id 信息，但是我们要输入模型进行运算的数据，不能是 id，而应该是一个序列。所以接下来，我们借助 DataLoader 的 collate_fn 中间函数，来实现 id</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>构建Dataset数据集和Bert分词</title>
     <link href="https://dingyidreams.com/2023/07/03/nlp-shi-jian-gou-jian-dataset-shu-ju-ji-he-bert-fen-ci/"/>
     <id>https://dingyidreams.com/2023/07/03/nlp-shi-jian-gou-jian-dataset-shu-ju-ji-he-bert-fen-ci/</id>
     <published>2023-07-03T15:34:50.000Z</published>
-    <updated>2023-07-03T16:31:07.799Z</updated>
+    <updated>2023-07-04T13:04:54.363Z</updated>
     
     
       
@@ -43,7 +64,7 @@
     <link href="https://dingyidreams.com/2023/07/02/nlp-shi-jian-hugginface-xue-xi-ji-lu/"/>
     <id>https://dingyidreams.com/2023/07/02/nlp-shi-jian-hugginface-xue-xi-ji-lu/</id>
     <published>2023-07-02T12:14:57.000Z</published>
-    <updated>2023-07-03T15:36:00.169Z</updated>
+    <updated>2023-07-04T13:04:54.364Z</updated>
     
     
       
@@ -65,7 +86,7 @@
     <link href="https://dingyidreams.com/2023/05/04/xiang-mu-ji-lu-xue-cheng-zai-xian-xiang-mu-bi-ji/"/>
     <id>https://dingyidreams.com/2023/05/04/xiang-mu-ji-lu-xue-cheng-zai-xian-xiang-mu-bi-ji/</id>
     <published>2023-05-04T07:01:03.000Z</published>
-    <updated>2023-05-04T07:07:11.611Z</updated>
+    <updated>2023-07-04T13:04:54.365Z</updated>
     
     
       
@@ -546,35 +567,6 @@
         
     <summary type="html">&lt;h1&gt;第十二章 项目采购管理&lt;/h1&gt;
 &lt;p&gt;&lt;img src=&quot;https://img-blog.csdnimg.cn/f18e6610cc46422fa4f76e1dfd10c5f1.png&quot; alt=&quot;&quot;&gt;&lt;img</summary>
-        
-      
-    
-    
-    
-    <category term="高级软考" scheme="https://dingyidreams.com/categories/%E9%AB%98%E7%BA%A7%E8%BD%AF%E8%80%83/"/>
-    
-    
-    <category term="高级软考" scheme="https://dingyidreams.com/tags/%E9%AB%98%E7%BA%A7%E8%BD%AF%E8%80%83/"/>
-    
-    <category term="信息系统项目管理师" scheme="https://dingyidreams.com/tags/%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E5%B8%88/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>高项_第十一章项目风险管理</title>
-    <link href="https://dingyidreams.com/2022/09/14/gao-xiang-di-11-zhang-xiang-mu-feng-xian-guan-li/"/>
-    <id>https://dingyidreams.com/2022/09/14/gao-xiang-di-11-zhang-xiang-mu-feng-xian-guan-li/</id>
-    <published>2022-09-14T08:18:36.000Z</published>
-    <updated>2023-04-21T07:25:41.667Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1&gt;第十一章 项目风险管理&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&quot;https://img-blog.csdnimg.cn/332160adff0a4434a2af4c137f6c5508.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;h2 id=&quot;项目风险管理概述&quot;&gt;&lt;a</summary>
         
       
     
