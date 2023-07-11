@@ -6,7 +6,7 @@
   <link href="https://dingyidreams.com/atom.xml" rel="self"/>
   
   <link href="https://dingyidreams.com/"/>
-  <updated>2023-07-11T13:01:07.807Z</updated>
+  <updated>2023-07-11T13:05:11.322Z</updated>
   <id>https://dingyidreams.com/</id>
   
   <author>
@@ -21,14 +21,15 @@
     <link href="https://dingyidreams.com/2023/07/10/nlp-shi-jian-dataloader/"/>
     <id>https://dingyidreams.com/2023/07/10/nlp-shi-jian-dataloader/</id>
     <published>2023-07-10T14:43:23.000Z</published>
-    <updated>2023-07-11T13:01:07.807Z</updated>
+    <updated>2023-07-11T13:05:11.322Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;在构建Dataset数据集和Bert分词后，解析出了三元组的 id 信息，但是我们要输入模型进行运算的数据，不能是 id，而应该是一个序列。所以接下来，我们借助 DataLoader 的 collate_fn 中间函数，来实现 id</summary>
+    <summary type="html">&lt;p&gt;在构建Dataset数据集和Bert分词后，解析出了三元组的 id 信息，但是我们要输入模型进行运算的数据，不能是 id，而应该是一个序列。所以接下来，我们借助 DataLoader 的 collate_fn 中间函数，来实现 id 转序列的过程。&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
         
       
     
