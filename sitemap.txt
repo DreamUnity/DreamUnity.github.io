@@ -69,8 +69,8 @@ https://dingyidreams.com/about/index.html
 https://dingyidreams.com/
 https://dingyidreams.com/tags/JVM/
 https://dingyidreams.com/tags/JAVA/
-https://dingyidreams.com/tags/%E5%86%85%E5%AD%98%E5%8C%BA%E5%9F%9F/
 https://dingyidreams.com/tags/GC/
+https://dingyidreams.com/tags/%E5%86%85%E5%AD%98%E5%8C%BA%E5%9F%9F/
 https://dingyidreams.com/tags/LeetCode/
 https://dingyidreams.com/tags/Matplotlib-Seaborn/
 https://dingyidreams.com/tags/Mysql/
