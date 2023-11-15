@@ -637,14 +637,14 @@
   </url>
   
   <url>
-    <loc>https://dingyidreams.com/tags/GC/</loc>
+    <loc>https://dingyidreams.com/tags/%E5%86%85%E5%AD%98%E5%8C%BA%E5%9F%9F/</loc>
     <lastmod>2023-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://dingyidreams.com/tags/%E5%86%85%E5%AD%98%E5%8C%BA%E5%9F%9F/</loc>
+    <loc>https://dingyidreams.com/tags/GC/</loc>
     <lastmod>2023-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -735,20 +735,6 @@
   </url>
   
   <url>
-    <loc>https://dingyidreams.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/</loc>
-    <lastmod>2023-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://dingyidreams.com/tags/%E6%99%BA%E6%85%A7%E5%86%9C%E4%B8%9A/</loc>
-    <lastmod>2023-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://dingyidreams.com/tags/TCP/</loc>
     <lastmod>2023-11-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -764,6 +750,20 @@
   
   <url>
     <loc>https://dingyidreams.com/tags/IP/</loc>
+    <lastmod>2023-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://dingyidreams.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/</loc>
+    <lastmod>2023-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://dingyidreams.com/tags/%E6%99%BA%E6%85%A7%E5%86%9C%E4%B8%9A/</loc>
     <lastmod>2023-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -835,14 +835,14 @@
   </url>
   
   <url>
-    <loc>https://dingyidreams.com/categories/%E8%AE%BA%E6%96%87%E7%B2%BE%E8%AF%BB/</loc>
+    <loc>https://dingyidreams.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2023-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://dingyidreams.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/</loc>
+    <loc>https://dingyidreams.com/categories/%E8%AE%BA%E6%96%87%E7%B2%BE%E8%AF%BB/</loc>
     <lastmod>2023-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
