@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://dingyidreams.com/2023/07/03/nlp-shi-jian-gou-jian-dataset-shu-ju-ji-he-bert-fen-ci/</loc>
+    <loc>https://dingyidreams.com/2023/07/10/nlp-shi-jian-dataloader/</loc>
     
     <lastmod>2023-11-15</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://dingyidreams.com/2023/07/10/nlp-shi-jian-dataloader/</loc>
+    <loc>https://dingyidreams.com/2023/07/03/nlp-shi-jian-gou-jian-dataset-shu-ju-ji-he-bert-fen-ci/</loc>
     
     <lastmod>2023-11-15</lastmod>
     
@@ -776,6 +776,13 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://dingyidreams.com/tags/NLP%E5%AE%9E%E8%B7%B5/</loc>
+    <lastmod>2023-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -836,6 +843,13 @@
   
   <url>
     <loc>https://dingyidreams.com/categories/%E9%AB%98%E7%BA%A7%E8%BD%AF%E8%80%83/</loc>
+    <lastmod>2023-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://dingyidreams.com/categories/NLP%E5%AE%9E%E8%B7%B5/</loc>
     <lastmod>2023-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
