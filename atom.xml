@@ -54,7 +54,8 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;构建Dataset数据集&quot;&gt;&lt;a href=&quot;#构建Dataset数据集&quot; class=&quot;headerlink&quot; title=&quot;构建Dataset数据集&quot;&gt;&lt;/a&gt;构建Dataset数据集&lt;/h1&gt;&lt;p&gt;使用的数据集为&lt;a</summary>
+    <summary type="html">&lt;h1&gt;构建Dataset数据集&lt;/h1&gt;
+&lt;p&gt;使用的数据集为&lt;a</summary>
         
       
     
@@ -79,7 +80,8 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;HuggingFace学习记录&quot;&gt;&lt;a href=&quot;#HuggingFace学习记录&quot; class=&quot;headerlink&quot; title=&quot;HuggingFace学习记录&quot;&gt;&lt;/a&gt;HuggingFace学习记录&lt;/h1&gt;&lt;h2</summary>
+    <summary type="html">&lt;h1&gt;HuggingFace学习记录&lt;/h1&gt;
+&lt;h2 id=&quot;BertTokenizer分词和编码&quot;&gt;&lt;a class=&quot;header-anchor&quot;</summary>
         
       
     
